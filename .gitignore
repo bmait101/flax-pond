@@ -10,6 +10,7 @@
 .Ruserdata
 /archive
 /data
+/little-sandy-creek
 
 # Example code in package build process
 *-Ex.R
